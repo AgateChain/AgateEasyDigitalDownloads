@@ -20,3 +20,8 @@ You must have a Agate API Key to use this plugin. It's free visit [here](http://
 3. Get your API Key of your merchant account from Agate.
 4. Scroll down and enter your API Key from step 3.
 5. Click save and close.
+
+Try How It Works ?
+====================
+
+We have created a demo website for you to test the plugin, feel free to visit [here](http://agate.services/easydigital/agate) .
